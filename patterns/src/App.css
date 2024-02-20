@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.user {
+  flex: 1 0 8rem;
+}
+.pass {
+  flex: 1 0 8rem;
+}
+button {
+  flex: 1 0 4rem;
+}
